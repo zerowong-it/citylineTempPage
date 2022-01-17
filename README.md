@@ -5,6 +5,7 @@ Desk name card (Avatar + name)
 
 ![avatar](https://user-images.githubusercontent.com/66102262/149736373-efbe7224-0aee-4a6a-8895-ad3ce14df175.png)
 
+![ZeroWongAvatar](https://user-images.githubusercontent.com/66102262/149738369-6a10a275-1df8-41bc-8788-635c14c17279.png)
 
 
 
